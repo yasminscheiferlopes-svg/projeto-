@@ -1,0 +1,40 @@
+/*paleta suave com fundo claro e texto escuro*/
+:root {
+    --cor-fundo: #fff8f0;
+    --cor-cabeçalho: #8b5e3c;
+    --cor-texto: #333
+    --cor-rodape: #654321;
+}
+
+body {
+    margin: 0;
+    font-family: ´seouge UI´, sans-serif;
+    background-color: 
+    var (--cor-fundo);
+    color: var(--cor-texto);
+}
+/*estiliza o cabeçalho */
+header {
+background-color: ;
+var(--cor-cabeçalho);
+padding: 10px
+text-align: center;
+}
+/* area principal do conteudo*/
+main {
+    padding: 20px
+    text-align: justify;
+}
+
+main h1 {
+    color: var(--cor-cabeçalho);
+}
+
+/*rodape com assinatura*/ 
+footer {
+    background-color: 
+    color:#fff;
+    textt-align: center;
+    padding: 15xp;
+    font-style:italic;
+}
