@@ -2,7 +2,7 @@
 :root {
     --cor-fundo: #fff8f0;
     --cor-cabeçalho: #8b5e3c;
-    --cor-texto: #333
+    --cor-texto: #333;
     --cor-rodape: #654321;
 }
 
@@ -15,7 +15,7 @@ body {
 }
 /*estiliza o cabeçalho */
 header {
-background-color: ;
+background-color: 
 var(--cor-cabeçalho);
 padding: 10px
 text-align: center;
@@ -33,7 +33,7 @@ main h1 {
 /*rodape com assinatura*/ 
 footer {
     background-color: 
-    color:#fff;
+    color: #fff;
     textt-align: center;
     padding: 15xp;
     font-style:italic;
